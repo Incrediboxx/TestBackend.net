@@ -11,7 +11,8 @@ https://localhost:44385/api/company/byId?id=1
 
 - получение полной информации об активе по id;
 https://localhost:44385/api/asset/byId?id=1
-- получение полной информации об активе по id;
+
+- получение полной информации об активе по isin;
 https://localhost:44385/api/asset/byIsin?isin=RU000A1013J4
 
 - поиск активов
